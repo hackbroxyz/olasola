@@ -30,20 +30,46 @@ export const data = [
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
-     {
-        id: 26,
+    {
+        id: 12,
         type: 'product',
-        title: "Moet & Chandon Ice Imp 75cl",
-        image: "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
-        discount: "75% Off",
-        price: "₹5999",
-        additionalPrice: "₹329.00",
+        title: "(4 PACK)Seagram's Imperial Blue Superior Grain Whisky",
+        image: "https://i.ibb.co/d0jYRD3w/20250708-233046.jpg",
+        discount: "80% Off",
+        price: "₹2799",
+        additionalPrice: "₹319.00",
         sliderImages: [
-            "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
-        
+            "https://i.ibb.co/d0jYRD3w/20250708-233046.jpg",
             
         ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
+        info: "https://rc.super-deel.site/uffr/media/polls/images/jgtyujrtyhj.jpg"
+    },
+    {
+        id: 13,
+        type: 'product',
+        title: "(5 PACK)Royal Stag Barrel Select Whisky",
+        image: "https://i.ibb.co/GmJqc6X/20250708-232413.jpg",
+        discount: "75% Off",
+        price: "₹4599",
+        additionalPrice: "₹359.00",
+        sliderImages: [
+            "https://i.ibb.co/GmJqc6X/20250708-232413.jpg",
+            
+        ], info: "https://rc.super-deel.site/uffr/media/polls/images/fasdfasdfasdf.jpg"
+    },
+    {
+        id: 3,
+        type: 'product',
+        title: "(3 PACK)Royal Salute 21 Year Old Blended Scotch Whisky.",
+        image: "https://i.ibb.co/0RhcJDqf/20250629-114559.jpg",
+        discount: "78% Off",
+        price: "11999",
+        additionalPrice: "699.00",
+        sliderImages: [
+            "https://i.ibb.co/0RhcJDqf/20250629-114559.jpg",
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
     },
     {
         id: 23,
@@ -74,6 +100,35 @@ export const data = [
         info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
     },
     {
+        id: 4,
+        type: 'product',
+        title: "(4 PACK) in Stock Jameson Irish Whiskey",
+        image: "https://i.ibb.co/rGdGML0z/20250629-121017.jpg",
+        discount: "73% Off",
+        price: "₹2899",
+        additionalPrice: "₹519.00",
+        sliderImages: [
+            "https://i.ibb.co/rGdGML0z/20250629-121017.jpg",
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/download_rMYhJP3.jpg"
+    },
+    {
+        id: 26,
+        type: 'product',
+        title: "Moet & Chandon Ice Imp 75cl",
+        image: "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
+        discount: "75% Off",
+        price: "₹5999",
+        additionalPrice: "₹329.00",
+        sliderImages: [
+            "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
+        
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
+    },
+    {
         id: 25,
         type: 'product',
         title: "(5 PACK)McDowell's No.1 Platinum Luxury Whisky (750ml",
@@ -87,34 +142,6 @@ export const data = [
             
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
-    },
-    {
-        id: 3,
-        type: 'product',
-        title: "(3 PACK)Royal Salute 21 Year Old Blended Scotch Whisky.",
-        image: "https://i.ibb.co/0RhcJDqf/20250629-114559.jpg",
-        discount: "78% Off",
-        price: "11999",
-        additionalPrice: "699.00",
-        sliderImages: [
-            "https://i.ibb.co/0RhcJDqf/20250629-114559.jpg",
-            
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
-    },
-    {
-        id: 4,
-        type: 'product',
-        title: "(4 PACK) in Stock Jameson Irish Whiskey",
-        image: "https://i.ibb.co/rGdGML0z/20250629-121017.jpg",
-        discount: "73% Off",
-        price: "₹2899",
-        additionalPrice: "₹519.00",
-        sliderImages: [
-            "https://i.ibb.co/rGdGML0z/20250629-121017.jpg",
-            
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/download_rMYhJP3.jpg"
     },
     {
         id: 5,
@@ -165,7 +192,7 @@ export const data = [
         image: "https://i.ibb.co/0Rn2VkfH/20250629-120743.jpg",
         discount: "99% Off",
         price: "₹11999",
-        additionalPrice: "₹999.00",
+        additionalPrice: "₹899.00",
         sliderImages: [
             "https://i.ibb.co/0Rn2VkfH/20250629-120743.jpg",
             
@@ -213,33 +240,6 @@ export const data = [
             
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/asdfgwerfghweqrtgyqertqertqwert.jpg"
-    },
-    {
-        id: 12,
-        type: 'product',
-        title: "(4 PACK)Seagram's Imperial Blue Superior Grain Whisky",
-        image: "https://i.ibb.co/d0jYRD3w/20250708-233046.jpg",
-        discount: "80% Off",
-        price: "₹2799",
-        additionalPrice: "₹319.00",
-        sliderImages: [
-            "https://i.ibb.co/d0jYRD3w/20250708-233046.jpg",
-            
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/jgtyujrtyhj.jpg"
-    },
-    {
-        id: 13,
-        type: 'product',
-        title: "(5 PACK)Royal Stag Barrel Select Whisky",
-        image: "https://i.ibb.co/GmJqc6X/20250708-232413.jpg",
-        discount: "75% Off",
-        price: "₹4599",
-        additionalPrice: "₹359.00",
-        sliderImages: [
-            "https://i.ibb.co/GmJqc6X/20250708-232413.jpg",
-            
-        ], info: "https://rc.super-deel.site/uffr/media/polls/images/fasdfasdfasdf.jpg"
     },
     {
         id: 14,
