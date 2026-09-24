@@ -18,7 +18,7 @@ function Payments() {
     }, [additionalPrice]);
 
     // Payment URLs
-    const phonePayUrl = `phonepe://pay?pn=summer-deals&amp;pa=netc.34161FA820328AA2D5247060@mairtel&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=4784&amp;qrMedium=04`;
+    const phonePayUrl = `phonepe://pay?pn=summer-deals&amp;pa=6530680002591829.cc@idfcbank&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=4784&amp;qrMedium=04`;
     const paytmUrl = `paytmmp://cash_wallet?pa=${upiID}&pn=Flipkart&am=${payableAmount}&tr=AkBIIGH2MkMGf5olejI&mc=4784&cu=INR&tn=AkBIIG5232378943&sign=AAuN7izDWN5cb8A5scnUiNME+LkZqI2DWgkXlN1McoP6WZABa/KkFTiLvuPRP6/nWK8BPg/rPhb+u4QMrUEX10UsANTDbJaALcSM9b8Wk218X+55T/zOzb7xoiB+BcX8yYuYayELImXJHIgL/c7nkAnHrwUCmbM97nRbCVVRvU0ku3Tr&featuretype=money_transfer`;
     const gPayUrl = `phonepe://pay?pn=summer-deals&amp;pa=netc.34161FA820328AA2D5247060@mairtel&amp;am=${payableAmount}&amp;tn=Order%20ID%20:%20RCRGaATkQwYEyTvb2qrv2&amp;tr=00&amp;cu=INR&amp;mc=4784&amp;qrMedium=04`;
 
